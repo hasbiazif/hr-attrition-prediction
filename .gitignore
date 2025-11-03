@@ -1,0 +1,16 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pkl
+*.log
+.DS_Store
+
+# Data dan model
+data/raw/
+models/
+outputs/
+
+# Environment
+.env
+venv/
